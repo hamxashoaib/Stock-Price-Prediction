@@ -81,7 +81,7 @@ This helps evaluate model performance visually.
 Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/Stock-Price-Prediction.git
+git clone https://github.com/hamxashoaib/Stock-Price-Prediction.git
 cd Stock-Price-Prediction
 ```
 
